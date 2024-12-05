@@ -33,10 +33,17 @@ def main():
         speak(wiki_summary)
         return
 
-    print("Wikipedia summary fetched successfully. Now generating AI content...")
+    print(" Now generating AI content...")
 
     # Prepare prompt for AI text generation
-    ai_generated = generate_text(topic, wiki_summary)
+    prompt = (
+        f"Based *only* on the following context, write a concise and informative summary about '{topic}'.\n\n"
+        f"Context:\n{wiki_summary}\n\n"
+        f"Summary (do NOT include references or citations):"
+    )
+
+    # Generate AI content
+    ai_generated = generate_text(prompt)
 
     print("\nGenerated Content:\n" + ai_generated)
     speak(ai_generated)
