@@ -11,7 +11,9 @@ This project generates social media captions and blog intros using AI (GPT-2). I
 ## 💻 How to Run
 1. Install Python
 2. Open this folder in PyCharm or terminal
-3. Run the file: `main.py`
+3. Make a Project folder 
+4. Add all the relevant code files
+5. Run the file: `main.py`
 
 ## 📦 Libraries Used
 - transformers
@@ -22,6 +24,9 @@ This project generates social media captions and blog intros using AI (GPT-2). I
 - pyaudio
 
 ## 📊 Project Results
-- Created 50+ samples on AI, Tech, etc.
-- Voice input to output takes around 3.2 seconds
-- 92% accuracy in voice-to-text
+- Created 35+ samples on AI, Tech, sports etc.
+- Voice input to output takes around 3.2 seconds (avg got from 35+ samples)
+- 92% accuracy in voice-to-text (based on the log of 35+ samples)
+
+
+
