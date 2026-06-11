@@ -1,9 +1,9 @@
 # Text Generation for Content Creation
 
-This project generates social media captions and blog intros using AI (GPT-2). It also uses voice input and Wikipedia to improve the content.
+This project generates social media captions and blog intros using AI (Tiny ILlama). It also uses voice input and Wikipedia to improve the content.
 
 ## 🔧 Features
-- Generates content using GPT-2
+- Generates content using Tiny ILlama
 - Supports voice input (mic)
 - Speaks the result (text to speech)
 - Fetches real-time info from Wikipedia
