@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Hugging+Face-Transformers-FFD21E?logo=huggingface&amp;logoColor=black&amp;style=for-the-badge" alt="Transformers" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&amp;logoColor=white&amp;style=for-the-badge" alt="PyTorch" />
   <img src="https://img.shields.io/badge/SpeechRecognition-Voice+Input-7B68EE?style=for-the-badge" alt="SpeechRecognition" />
-  <img src="https://img.shields.io/badge/pyttsx3-Text-to-Speech-1F6FEB?style=for-the-badge" alt="pyttsx3" />
   </p>
 
   <p>
